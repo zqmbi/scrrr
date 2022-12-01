@@ -114,7 +114,7 @@ TextLabel.Font = Enum.Font.SourceSans
 
 TextLabel.Text = "Fly zqmb"
 
-TextLabel.TextColor3 = Color3.fromRGB(130, 140, 250)
+TextLabel.TextColor3 = Color3.fromRGB(33, 33, 33, 1)
 
 TextLabel.TextScaled = true
 
@@ -126,7 +126,7 @@ plus.Name = "plus"
 
 plus.Parent = Frame
 
-plus.BackgroundColor3 = Color3.fromRGB(133, 145, 255)
+plus.BackgroundColor3 = Color3.fromRGB(255, 235, 238, 1)
 
 plus.Position = UDim2.new(0.231578946, 0, 0, 0)
 
