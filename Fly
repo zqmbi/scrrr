@@ -70,7 +70,7 @@ down.Name = "down"
 
 down.Parent = Frame
 
-down.BackgroundColor3 = Color3.fromRGB(215, 255, 121)
+down.BackgroundColor3 = Color3.fromRGB(133, 145, 255)
 
 down.Position = UDim2.new(0, 0, 0.491228074, 0)
 
