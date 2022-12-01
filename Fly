@@ -2,7 +2,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 
                 Title = "Credits";
 
-                Text = "Modified By SpekzZ";
+                Text = "Modified By Sw7";
 
                 Duration = 3.5;
 
@@ -112,7 +112,7 @@ TextLabel.Size = UDim2.new(0, 100, 0, 28)
 
 TextLabel.Font = Enum.Font.SourceSans
 
-TextLabel.Text = "Fly Gui V2"
+TextLabel.Text = "Fly zqmb"
 
 TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 
